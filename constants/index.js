@@ -15,6 +15,11 @@ const navLinks = [
 	id: "menu",
 	title: "Menu",
  },
+ 
+ {
+	id: "contact",
+	title: "Contact",
+ },
 ];
 
 const cocktailLists = [
